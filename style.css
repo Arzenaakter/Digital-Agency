@@ -252,12 +252,11 @@ header{
 }
 .red-box-right p{
    
-    font-weight: 600px;
     line-height: 25px;
 
 }
 .red-box-right-btn{
-    padding: 15px 50px;
+    padding: 15px 30px;
     font-size: 20px;
     border-radius: 35px;
     border: 0;
